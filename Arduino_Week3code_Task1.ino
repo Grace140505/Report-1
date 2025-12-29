@@ -34,7 +34,7 @@ const int BASE_SPEED_L    = 100;
 const int LOST_TURN_SPEED = 120;   // for hard spins
 
 // ================= Distance =================
-const float TICKS_PER_REV = 22.0;
+const float TICKS_PER_REV = 20.0;
 const float WHEEL_CIRC    = 21.3;
 const float CM_PER_TICK   = (WHEEL_CIRC / TICKS_PER_REV);
 
